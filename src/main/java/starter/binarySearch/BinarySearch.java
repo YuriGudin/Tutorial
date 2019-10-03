@@ -11,10 +11,10 @@ public class BinarySearch {
 
     //Перебор
     static boolean checkBrute(int value, int [] sortArray){
-        for (int i = 0; i <sortArray.length ; i++) {
+        for (int i = 0; i <sortArray.length ; i++)
             if (value == sortArray[i])
                 return true; //Элемент найден
-        }
+
         return false; //Элемент не найден
     }
 
