@@ -1,5 +1,6 @@
 package starter.strings;
 
+//Написать метод для поиска самой длинной строки.
 public class Task1 {
 
     static int search (String[] strings)
