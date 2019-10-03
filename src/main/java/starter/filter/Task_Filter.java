@@ -1,4 +1,4 @@
-package jcf.filter;
+package starter.filter;
 
 /*
 Написать​ ​ метод​ ​ filter,​ ​ который​ ​ принимает​ ​ на​ ​ вход​ ​ массив​ ​
